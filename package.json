@@ -1,0 +1,25 @@
+{
+  "name": "merchantwebapp",
+  "version": "1.0.0",
+  "description": "a merchant web app tryut",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenSunMac/MerchantWebApp.git"
+  },
+  "author": "Chen Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenSunMac/MerchantWebApp/issues"
+  },
+  "homepage": "https://github.com/ChenSunMac/MerchantWebApp#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-rc.4"
+  }
+}
